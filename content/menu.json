@@ -179,56 +179,6 @@
           "price": 1800
         }
       ]
-    },
-    {
-      "title": "Refrigerantes",
-      "items": [
-        {
-          "name": "Coca-Cola 200ml",
-          "description": "",
-          "price": 250
-        },
-        {
-          "name": "Coca-Cola 350ml",
-          "description": "",
-          "price": 450
-        },
-        {
-          "name": "Coca-Cola 600ml",
-          "description": "",
-          "price": 650
-        },
-        {
-          "name": "Coca-Cola 2L",
-          "description": "",
-          "price": 1000
-        },
-        {
-          "name": "Coca-Cola 2,5L",
-          "description": "",
-          "price": 1100
-        },
-        {
-          "name": "Guaraná 200ml",
-          "description": "",
-          "price": 250
-        },
-        {
-          "name": "Guaraná 350ml",
-          "description": "",
-          "price": 400
-        },
-        {
-          "name": "Guaraná 600ml",
-          "description": "",
-          "price": 500
-        },
-        {
-          "name": "Guaraná 2L",
-          "description": "",
-          "price": 900
-        }
-      ]
     }
   ]
 }
