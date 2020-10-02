@@ -1,6 +1,6 @@
 {
-  "primary": "#2196f3",
-  "secondary": "#f50057",
-  "dark": false,
+  "primary": "#24982C",
+  "secondary": "#27CAD0",
+  "dark": true,
   "fontPrimary": "Merriweather"
 }
