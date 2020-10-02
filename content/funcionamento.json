@@ -31,7 +31,7 @@
   },
   "friday": {
     "weekDay": 5,
-    "open": "18:00",
+    "open": "08:00",
     "close": "03:00",
     "isOpen": true
   },
